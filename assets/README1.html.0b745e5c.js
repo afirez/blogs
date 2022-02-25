@@ -1,0 +1,1 @@
+const e={key:"v-798a94e3",path:"/tools/README1.html",title:"tools",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Markdown",slug:"markdown",children:[]}],git:{updatedTime:1645500081e3,contributors:[{name:"afirez",email:"afirez.io@gmail.com",commits:1}]},filePathRelative:"tools/README1.md"};export{e as data};

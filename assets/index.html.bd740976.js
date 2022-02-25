@@ -1,0 +1,1 @@
+import{o as e,c as a,a as t,b as o}from"./app.43a649c2.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"alphazz",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#alphazz","aria-hidden":"true"},"#",-1),n=o(" alphazz"),d=[_,n];function h(i,l){return e(),a("h1",c,d)}var m=r(s,[["render",h]]);export{m as default};
